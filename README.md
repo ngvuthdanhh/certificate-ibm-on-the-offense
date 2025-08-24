@@ -82,9 +82,11 @@ Overall, I would recommend this program to anyone wanting a **balanced approach 
 
 ## ✍️ Author  
 
-**Thành Danh** – Pentester & Cybersecurity Researcher  
-GitHub: [@ngvuthdanhh](https://github.com/ngvuthdanhh)  
-Email: ngvu.thdanh@gmail.com  
+**Thành Danh** – Red Team Learner & Security Researcher  
+
+- GitHub: [@ngvuthdanhh](https://github.com/ngvuthdanhh)  
+
+- Email: ngvu.thdanh@gmail.com   
 
 ---
 
