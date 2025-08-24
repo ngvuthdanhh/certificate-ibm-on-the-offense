@@ -1,10 +1,10 @@
 # 🛡️ IBM On the Offense – Cybersecurity Training  
 
-![Course](https://img.shields.io/badge/IBM-On%20the%20Offense-darkblue?style=flat-square&logo=ibm)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon)  
-![Type](https://img.shields.io/badge/Type-Learning%20Project-orange?style=flat-square&logo=notion)  
-![Focus](https://img.shields.io/badge/Focus-Offensive%20%26%20Defensive%20Security-informational?style=flat-square&logo=defender)  
-![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)  
+![Course](https://img.shields.io/badge/IBM-On%20the%20Offense-darkblue?style=flat-square&logo=ibm)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon)
+![Type](https://img.shields.io/badge/Type-Learning%20Project-orange?style=flat-square&logo=notion)
+![Focus](https://img.shields.io/badge/Focus-Offensive%20%26%20Defensive%20Security-informational?style=flat-square&logo=defender)
+![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
 
 This repository contains **notes, labs, playbooks, research case studies, and certificate of completion** for the *IBM On the Offense* cybersecurity program.  
 The course focuses on understanding the attacker’s mindset, running Red vs Blue simulations, and building effective defense strategies.  
