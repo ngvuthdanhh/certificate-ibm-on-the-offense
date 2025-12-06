@@ -15,4 +15,4 @@ This lab demonstrates how phishing attacks are crafted and how organizations can
 
 ## Expected Outcome
 - Improved ability to detect phishing attempts.  
-- Clear understanding of organizational reporting process.  
+- Clear understanding of organizational reporting process
